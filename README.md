@@ -7,9 +7,13 @@ I encorage you to visit his website: https://www.freecodecamp.org/learn. Also to
 In this repository you can find the next FCC Projects:
 
 1)FCC Tibute Page - Blink 182
+
 2)FCC Technical Documentation Page - HTML
+
 3)FCC SurveyForm
+
 4)FCC Product Landing Page
+
 5)FCC Personal portfolio
 
 Note that the CSS part has been included within the HTML file.
