@@ -2,7 +2,7 @@
 
 Some HTML and CSS projects that I created in order to pass the certificate: Responsive web design certification - FreeCodeCamp
 
-I encorage you to visit his website: https://www.freecodecamp.org/learn. Also to make the couses, for sure you will learn a lot :)
+I encourage you to visit his website: https://www.freecodecamp.org/learn. Also to make the couses, for sure you will learn a lot :)
 
 In this repository you can find the next FCC Projects:
 
