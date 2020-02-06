@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<nav>
+    <ul id='navbar'>
+        <li><a href="#welcome-section">About</a></li>
+        <li><a href="#projects">Work</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+<!-- Intro -->
+<div id="welcome-section" class="intro">
+    <h1>Hey I am Lajobu.</h1>
+    <p>a web developer &#128512</p>
+</div>
+<!-- Projects -->
+<div id="projects" class="work">
+    <h2 class="work-header">These are some of my projects:</h2>
+    <!-- Tribute page -->
+    <a href="ttps://codepen.io/lajobu/pen/BPLXoY" target="_blank" class="project project-tile">
+        <img class="project-pic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blink-182%2C_June_2016.jpg/1024px-Blink-182%2C_June_2016.jpg" alt="project">
+        <div class="project-title">Tribute Page - Blink 182</div>
+    </a>
+    <!-- Survey Form -->
+    <a href="https://codepen.io/lajobu/pen/xJRewK" target="_blank" class="project project-tile">
+        <img class="project-pic" src="http://informationcommunicationtechnology.com/wp-content/uploads/2018/06/Background-Images-2.jpg" alt="project">
+        <div class="project-title">Survey form</div>
+    </a>
+    <!-- Product Landing page -->
+    <a href="https://codepen.io/lajobu/pen/jpyzqM" target="_blank" class="project project-tile">
+        <img class="project-pic" src="https://www.truconversion.com/blog/wp-content/uploads/15-Amazing-Product-Landing-Page-Examples-1000x550.jpg" alt="project">
+        <div class="project-title">Product Landing Page</div>
+    </a>
+    <!-- Technical Documentation page -->
+    <a href="https://codepen.io/lajobu/pen/vagjGG" target="_blank" class="project project-tile">
+        <img class="project-pic" src="https://ffeathers.files.wordpress.com/2010/10/confluencedocs-trunc.png" alt="project">
+        <div class="project-title">Technical Documentation Page</div>
+    </a>
+    <!-- Watch all Link -->
+    <a href="https://codepen.io/FreeCodeCamp/" class="show-all" target="_blank">Show all</a>
+</div>
+<!-- Contact -->
+<div id="contact" class="contact">
+    <div class="header">
+        <h1>Let's work together &#129299</h1>
+    </div>
+    <a href="https://facebook.com/" target="_blank" class="contact-details">Facebook</a>
+    <a id='profile-link' href="https://github.com/" target="_blank" class="contact-details">GitHub</a>
+    <a href="https://twitter.com/" target="_blank" class="contact-details">Twitter</a>
+    <a href="mailto:example@example.com" class="contact-details">Send a mail</a>
+    <a href="tel:555-555-5555" class="contact-details">Call me</a>
+</div>
+<footer>
+    <p>&copy; Created by Lajobu, with the help of FreeCodeCamp. </p>
+</footer>
+<style type="text/css">
+    html,
+    body {
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .intro {
+        top: 0;
+        background: #ccffeb;
+        min-height: 55vh;
+        padding-top: 45vh;
+        /*   line-height: 100vh; */
+        /*   width:100%;
+  height:96vh;
+border:solid; */
+    }
+    
+    .intro p {
+        color: green;
+    }
+    
+    nav ul {
+        text-align: right;
+        position: fixed;
+        width: 100%;
+        background-color: #ccffeb;
+    }
+    
+    nav ul li {
+        display: inline-block;
+        margin: 20px;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    
+    nav ul li a {
+        color: green;
+        text-decoration: ;
+    }
+    
+    nav ul li a:hover {
+        color: green;
+    }
+    
+    .work {
+        padding-top: 60px;
+        margin-top: -60px;
+    }
+    
+    .work .work-header {
+        margin-top: 50px;
+        color: green;
+        font-weight: normal;
+    }
+    
+    .project {
+        text-decoration: none;
+        color: green;
+        display: inline-block;
+        overflow: hidden;
+        border: 2px solid lightgreen;
+        height: 220px;
+        width: 280px;
+        margin: 40px 100px;
+        /*   background: url("https://res.cloudinary.com/dck40m3wf/image/upload/v1455459914/Portfolio/fancy-floral-pattern-384.jpg") repeat; */
+    }
+    
+    .project-pic {
+        width: 100%;
+        height: 180px;
+        border-bottom: 2px solid lightgreen;
+    }
+    
+    .project-title {
+        font-weight: bold;
+    }
+    
+    .show-all {
+        text-decoration: none;
+        display: block;
+        width: 200px;
+        height: 30px;
+        margin: 20px auto 90px;
+        background: #ccffeb;
+        color: green;
+        font-weight: bold;
+        font-size: 1em;
+        border: 2px solid #90C695;
+        border-radius: 4px;
+        cursor: pointer;
+        padding-top: 10px;
+    }
+    
+    .show-all:hover {
+        background: #ccffeb;
+        color: green;
+    }
+    
+    @media only screen and (max-width: 500px) {
+        nav ul {
+            text-align: center;
+        }
+        nav ul li {
+            margin: 20px;
+        }
+        .project {
+            margin: 40px 0;
+        }
+    }
+    
+    .contact {
+        /*   height:800px; */
+        /*   min-height:800px; */
+        background: #ccffeb;
+        padding-bottom: 160px;
+    }
+    
+    .header {
+        padding: 160px 0 110px;
+    }
+    
+    .contact-details {
+        display: inline-block;
+        font-weight: bold;
+        margin: 0 35px 45px 35px;
+        list-style-type: none;
+        border: 2px solid #90C695;
+        border-radius: 100%;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        background: #ccffeb;
+        color: Green;
+        text-decoration: none;
+    }
+    
+    .contact-details:hover {
+        background: #99ffd6;
+        color: green;
+    }
+    
+    footer {
+        padding: 20px;
+        background: #99ffd6;
+        color: black;
+        line-height: 40px;
+    }
+    
+    footer a {
+        color: white;
+    }
+    
+    @media only screen and (max-width: 367px) {
+        /*    #contact{
+    min-height:1100px;
+  } */
+        .contact-details {
+            border: 2px solid #90C695;
+            border-radius: 0;
+            width: 90px;
+            height: 20px;
+            padding: 10px;
+            line-height: normal;
+        }
+    }
+</style>
+
+</html>
