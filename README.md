@@ -8,14 +8,12 @@ I encourage you to visit his website:  :link: https://www.freecodecamp.org/learn
 
 ##  :star: In this repository you can find the next `FCC Projects:
 
-### 1)FCC Tibute Page - Blink 182
+### [:white_check_mark: FCC Tibute Page - Blink 182](https://github.com/lajobu/FCC-Projects/blob/master/FCC%20Tibute%20Page.html)
 
-### 2)FCC Technical Documentation Page - HTML
+### [:white_check_mark: FCC Technical Documentation Page](https://github.com/lajobu/FCC-Projects/blob/master/FCC%20Technical%20Documentation%20Page.html)
 
-### 3)FCC SurveyForm
+### [:white_check_mark: FCC SurveyForm](https://github.com/lajobu/FCC-Projects/blob/master/FCC%20SurveyForm.html)
 
-### 4)FCC Product Landing Page
-
-## 5)FCC Personal portfolio
+### [:white_check_mark: FCC Personal portfolio](https://github.com/lajobu/FCC-Projects/blob/master/FCC%20Personal%20portfolio.html)
 
 * Note that the `CSS part has been included within the HTML file`.
