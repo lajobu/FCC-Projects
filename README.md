@@ -1,19 +1,21 @@
 # FCC-Projects
 
-Some HTML and CSS projects that I created in order to pass the certificate: Responsive web design certification - FreeCodeCamp
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-I encourage you to visit his website: https://www.freecodecamp.org/learn. Also to make the couses, for sure you will learn a lot :)
+Some `HTML` and `CSS` projects that I created in order to pass the certificate: `Responsive web design certification - FreeCodeCamp`
 
-In this repository you can find the next FCC Projects:
+I encourage you to visit his website:  :link: https://www.freecodecamp.org/learn. Also to make the couses, for sure you will learn a lot  :smile:
 
-1)FCC Tibute Page - Blink 182
+##  :star: In this repository you can find the next `FCC Projects:
 
-2)FCC Technical Documentation Page - HTML
+### 1)FCC Tibute Page - Blink 182
 
-3)FCC SurveyForm
+### 2)FCC Technical Documentation Page - HTML
 
-4)FCC Product Landing Page
+### 3)FCC SurveyForm
 
-5)FCC Personal portfolio
+### 4)FCC Product Landing Page
 
-Note that the CSS part has been included within the HTML file.
+## 5)FCC Personal portfolio
+
+* Note that the `CSS part has been included within the HTML file`.
